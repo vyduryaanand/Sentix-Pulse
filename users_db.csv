@@ -1,0 +1,21 @@
+email,password,fname,lname,title,gender,address,role,company
+admin@sentix.com,admin123,,,,,,,
+anandvydurya@gmail.com,NaviVyydurya@143,,,,,,,
+,Navaneeth@143,,,Mr.,Male,,,
+anandvydurya@gmail.com,Navaneeth@143,Vydurya,Anand,Ms.,Female,Sri Lakshmi Venkateshwara Nilaya,Customer,
+anandvydurya@gmail.com,Navaneeth@143,Vydurya,Anand,Ms.,Female,Sri Lakshmi Venkateshwara Nilaya,Customer,
+anandvydurya@gmail.com,Navaneeth@143,Vydurya,Anand,Ms.,Female,Sri Lakshmi Venkateshwara Nilaya,Customer,
+anandvydurya@gmail.com,Navaneeth@143,Vydurya,Anand,Ms.,Female,Sri Lakshmi Venkateshwara Nilaya.,Customer,
+anandvydurya@gmail.com,Navaneeth@143,Vydurya,Anand,Mr.,Male,,Customer,
+adminlg@gmail.com,adminlg1234,,,,,,Company,LG
+anandvydurya@gmail.com,Navaneeth@143,Vydurya,Anand,,,,Customer,
+adminlg@gmail.com,adminlg1234,Vydurya,Anand,,,,Company,LG
+anandvydurya@gmail.com,VyduryaNavaneeth@2026,VYDURYA,ANAND,,,,Customer,
+anandvydurya@gmail.com,Vyduryanavaneeth@143,VYDURYA ANAND,,,,,Customer,
+adminlg@gmail.com,Adminlg@1234,,,,,,Company,LG
+adminapple@gmail.com,Adminapple@1234,,,,,,Company,Apple
+anandvydurya@gmail.com,Vyduryanavaneeth@143,VYDURYA,ANAND,,,,Customer,
+adminapple@gmail.com,Adminapple@1234,VYDURYA,ANAND,,,,Company,Apple
+anandvydurya@gmail.com,Vyduryanavaneeth@1234,VYDURYA,ANAND,,,,Customer,
+adminapple@gmail.com,Adminapple@1234,VYDURYA,ANAND,,,,Company,Apple
+adminbosch@gmail.com,Adminbosch@1234,VYDURYA,ANAND,,,,Company,BOSCH
